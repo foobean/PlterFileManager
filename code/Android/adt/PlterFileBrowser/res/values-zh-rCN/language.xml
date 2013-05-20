@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">文件管理</string>
+    <string name="fl_header_settings">设置</string>
+    <string name="title_activity_main">文件管理</string>
+    <string name="fl_header_back_dir">后退</string>
+	<string name="fl_header_parent_dir">父目录</string>
+    <string name="fl_header_root_dir">根目录</string>
+    <string name="fl_header_apps">应用程序</string>
+    <string name="fl_header_sdcard_dir">SD卡</string>
+	<string name="current_dir_is_root_dir">当前目录已是根目录！</string>
+	<string name="items">项</string>
+	<string name="last_modified">最后修改</string>
+	<string name="file_options">文件选项</string>
+	<string name="show_all_files">显示所有文件</string>
+	<string name="back">返回</string>
+	<string name="options">操作选项</string>
+	<string name="delete">删除</string>
+	<string name="deleting">正在删除</string>
+	<string name="finding">正在查找</string>
+	<string name="find">查找</string>
+	<string name="finded">查找到</string>
+	<string name="please_wait">请稍候</string>
+	<string name="hello">你好</string>
+	<string name="failed_to_delete">删除失败</string>
+	<string name="open">打开</string>
+	<string name="press_back_btn_again_to_quit_the_app">再按一次后退键将退出应用程序</string>
+	<string name="installed">已安装</string>
+	<string name="running">正在运行</string>
+	<string name="author_info">作者博客:http://blog.plter.com</string>
+</resources>

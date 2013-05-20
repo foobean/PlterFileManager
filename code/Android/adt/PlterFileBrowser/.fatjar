@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Fri Jul 27 16:24:50 CST 2012
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=dist/swfplayerext.jar
+manifest.mergeall=true
+manifest.mainclass=
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=<jar|FlashRuntimeExtensions.jar>;<jar|annotations.jar>;<jar|Tencent_MobWIN_BASIC_1.4.jar>;<jar|Tencent_MobWIN_SDK_1.4.jar>;<jar|android-support-v4.jar>
+includes=
